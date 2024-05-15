@@ -29,7 +29,7 @@ client.on('ready', async () => {
 
 		const commands = [{
 			name: 'create',
-			description: 'Replies with Help Embed!'
+			description: 'Yardım Buttonlarını Oluşturun'
 		}]
 		
 		try {
