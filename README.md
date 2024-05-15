@@ -12,10 +12,15 @@ Eski Sürümü Deneyebilirsiniz [Burada](https://github.com/Abdul1810/support-bo
 
 # Talimatlar
 Bu Repoyu İndirin
+
 Dosyaları Açın
+
 Paketleri Yükleyin - `npm i`
+
 Yapılandırma Dosyasını Düzenleme (config.json)
+
 Botu `npm start` ile çalıştırın
+
 (yapılandırmadaki önek)`create`.
 
 Önemli Notlar :
