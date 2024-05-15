@@ -1,0 +1,30 @@
+{
+	"token": "TOKEN_ID",
+	"status": "Sponsor: Sunucu Merkezim",
+	"prefix": "+",
+	"enable_slash": true,
+	"owners": ["1084859803064602717"],
+	"embed_content": {
+		"title": "Support Embed Title",
+		"color": "00000",
+		"thumbnail": true,
+		"thumbnail_url": "Url of A PNG/GIF",
+		"question_1": "TEST",
+		"question_2": "TEST",
+		"question_3": "TEST",
+		"question_4": "TEST",
+		"question_5": "TEST"
+	},
+	"responses": {
+		"response_1": "TESTBUTTON1",
+		"response_2": "TESTBUTTON2",
+		"response_3": "TESTBUTTON3",
+		"response_4": "TESTBUTTON4",
+		"response_5": "TESTBUTTON5"
+	},
+	"log_channel_id": "1239269876871467076",
+	"assistance_channel_id": "1239269876871467076",
+	"assistance_role_id": "1239270405307629600",
+	"Important": " Yukarıdaki alana Rol Eklenecek ve Daha Fazla Yardım Kanalı görünecektir, bu nedenle bir rol oluşturun ve izinleri ayarlayın",
+	"Note": "Yukarıdakilerin Tümünü Doldurun. Yeni Satır için \n kullanın. Yeni Sekme Alanı için \t kullanın. HyperLink (text)[link] kullanın, mavi ve tıklanabilir görünecektir"
+}
