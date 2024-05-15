@@ -21,8 +21,6 @@ Yapılandırma Dosyasını Düzenleme (config.json)
 
 Botu `npm start` ile çalıştırın
 
-(yapılandırmadaki önek)`create`.
-
 Önemli Notlar :
 
 1. create Komutu Yalnızca config.json'daki owners dizisinde bulunan UserID'ler için çalışır.
