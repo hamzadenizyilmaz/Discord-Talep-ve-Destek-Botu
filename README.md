@@ -7,8 +7,6 @@ Bu Kodu Kolayca Çatallayabilir ve Yapılandırmayı Düzenleyebilir ve Barınd�
 
 # Gereksinimler
 Node JS Sürüm ^16.0.0
-Node v16'yı yükleyemiyorsanız.
-Eski Sürümü Deneyebilirsiniz [Burada](https://github.com/Abdul1810/support-bot-with-buttons/tree/djs-v12)
 
 # Talimatlar
 Bu Repoyu İndirin
