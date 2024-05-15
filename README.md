@@ -1,9 +1,10 @@
 # Discord-Talep-ve-Destek-Botu
 
 Sunucunuz İçin Bir Destek Botu.
+
 Barındırması Kolay.
+
 Düğmelerle Etkileşim ile Çalışın.
-Bu Kodu Kolayca Çatallayabilir ve Yapılandırmayı Düzenleyebilir ve Barındırabilirsiniz.
 
 # Gereksinimler
 Node JS Sürüm ^16.0.0
